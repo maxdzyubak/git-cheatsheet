@@ -1,4 +1,4 @@
-## :pushpin: Git cheatsheet and zsh aliases
+## :pushpin: Git cheatsheet & zsh aliases
 | Command | Zsh alias | Description | Docs |
 | --- | --- | --- | --- |
 | `git status` | `gst` | List all new or modified files | [docs](https://git-scm.com/docs/git-status) |
